@@ -1,0 +1,32 @@
+{
+  "name": "hyvaep-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -p . && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -p . && tsc -p pipeline",
+    "data": "NODE_NO_WARNINGS=1 tsx pipeline/cli.ts",
+    "data:seed": "npm run data -- seed && npm run data -- export",
+    "data:update": "npm run data -- update",
+    "data:status": "npm run data -- status",
+    "test": "NODE_NO_WARNINGS=1 tsx --test pipeline/test/*.test.ts src/lib/*.test.ts",
+    "build:artifact": "tsc -p . && vite build --mode artifact"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11"
+  }
+}

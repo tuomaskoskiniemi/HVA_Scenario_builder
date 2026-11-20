@@ -1,0 +1,477 @@
+[
+  {
+    "id": "skssairaala",
+    "category": "sairaala",
+    "name": "Seinäjoen keskussairaala",
+    "municipality": "KU743",
+    "address": "Hanneksenrinne 7",
+    "note": "Erikoissairaanhoito ja koko alueen ympärivuorokautinen yhteispäivystys.",
+    "location_method": "osoite",
+    "geocode_query": "Hanneksenrinne 7, Seinäjoki",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 358,
+      "y": 450
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 0
+  },
+  {
+    "id": "s-seinajoki",
+    "category": "sote",
+    "name": "Seinäjoen sote-keskus",
+    "municipality": "KU743",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Seinäjoen sote-keskus, Seinäjoki",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 380,
+      "y": 432
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 1
+  },
+  {
+    "id": "s-kauhajoki",
+    "category": "sote",
+    "name": "Kauhajoen sote-keskus",
+    "municipality": "KU232",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Kauhajoen sote-keskus, Kauhajoki",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 204,
+      "y": 639
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 2
+  },
+  {
+    "id": "s-kurikka",
+    "category": "sote",
+    "name": "Kurikan sote-keskus",
+    "municipality": "KU301",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita.",
+    "location_method": "taajama",
+    "geocode_query": "Kurikka, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 256,
+      "y": 540
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 3
+  },
+  {
+    "id": "s-ilmajoki",
+    "category": "sote",
+    "name": "Ilmajoen sote-keskus",
+    "municipality": "KU145",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Ilmajoen sote-keskus, Ilmajoki",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 299,
+      "y": 483
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 4
+  },
+  {
+    "id": "s-lapua",
+    "category": "sote",
+    "name": "Lapuan sote-keskus",
+    "municipality": "KU408",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita.",
+    "location_method": "taajama",
+    "geocode_query": "Lapua, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 401,
+      "y": 358
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 5
+  },
+  {
+    "id": "s-kauhava",
+    "category": "sote",
+    "name": "Kauhavan sote-keskus",
+    "municipality": "KU233",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Kauhavan sote-keskus, Kauhava",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 413,
+      "y": 290
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 6
+  },
+  {
+    "id": "s-alajarvi",
+    "category": "sote",
+    "name": "Alajärven sote-keskus",
+    "municipality": "KU005",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Alajärven sote-keskus, Alajärvi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 593,
+      "y": 342
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 7
+  },
+  {
+    "id": "s-alavus",
+    "category": "sote",
+    "name": "Alavuden sote-keskus",
+    "municipality": "KU010",
+    "address": null,
+    "note": "Sosiaali- ja terveyskeskus: alueen päätoimipiste, jossa lääkärin ja hoitajan vastaanotto sekä sosiaalipalveluita. Sote-keskuksena 1.8.2026 alkaen.",
+    "location_method": "laitos",
+    "geocode_query": "Alavuden sote-keskus, Alavus",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 546,
+      "y": 556
+    },
+    "valid_from": "2026-08-01",
+    "valid_to": null,
+    "sort_order": 8
+  },
+  {
+    "id": "t-ahtari",
+    "category": "ta",
+    "name": "Ähtärin terveysasema",
+    "municipality": "KU989",
+    "address": null,
+    "note": "Terveysasema: lääkärin ja hoitajan vastaanottopalveluita. Toimipisteen rooli muuttui 1.8.2026; tarkista ajantasaiset palvelut.",
+    "location_method": "laitos",
+    "geocode_query": "Ähtärin terveysasema, Ähtäri",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 653,
+      "y": 576
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 9
+  },
+  {
+    "id": "t-jalasjarvi",
+    "category": "ta",
+    "name": "Jalasjärven terveysasema",
+    "municipality": "KU301",
+    "address": null,
+    "note": "Terveysasema: lääkärin ja hoitajan vastaanottopalveluita. Toiminnan jatkuminen on ollut harkinnassa.",
+    "location_method": "taajama",
+    "geocode_query": "Jalasjärvi, Kurikka, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 341,
+      "y": 602
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 10
+  },
+  {
+    "id": "t-evijarvi",
+    "category": "ta",
+    "name": "Evijärven terveysasema",
+    "municipality": "KU052",
+    "address": null,
+    "note": "Terveysasema: lääkärin ja hoitajan vastaanottopalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Evijärven terveysasema, Evijärvi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 513,
+      "y": 150
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 11
+  },
+  {
+    "id": "t-vimpeli",
+    "category": "ta",
+    "name": "Vimpelin terveysasema",
+    "municipality": "KU934",
+    "address": null,
+    "note": "Terveysasema: lääkärin ja hoitajan vastaanottopalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Vimpelin terveysasema, Vimpeli",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 593,
+      "y": 259
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 12
+  },
+  {
+    "id": "t-teuva",
+    "category": "ta",
+    "name": "Teuvan sosiaali- ja terveysasema",
+    "municipality": "KU846",
+    "address": "Tuokkolantie 6",
+    "note": "Terveysasema: lääkärin ja hoitajan vastaanottopalveluita.",
+    "location_method": "laitos",
+    "geocode_query": "Teuvan sosiaali- ja terveysasema, Teuva",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 99,
+      "y": 608
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 13
+  },
+  {
+    "id": "p-karijoki",
+    "category": "piste",
+    "name": "Karijoen sote-piste",
+    "municipality": "KU218",
+    "address": "Keskitie 2",
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "laitos",
+    "geocode_query": "Karijoen sote-piste, Karijoki",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 92,
+      "y": 701
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 14
+  },
+  {
+    "id": "p-isokyro",
+    "category": "piste",
+    "name": "Isonkyrön sote-piste",
+    "municipality": "KU152",
+    "address": "Härkäkiventie 36",
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "laitos",
+    "geocode_query": "Isonkyrön sote-piste, Isokyrö",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 237,
+      "y": 342
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 15
+  },
+  {
+    "id": "p-isojoki",
+    "category": "piste",
+    "name": "Isojoen sote-piste",
+    "municipality": "KU151",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "taajama",
+    "geocode_query": "Isojoki, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 151,
+      "y": 805
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 16
+  },
+  {
+    "id": "p-jurva",
+    "category": "piste",
+    "name": "Jurvan sote-piste",
+    "municipality": "KU301",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "taajama",
+    "geocode_query": "Jurva, Kurikka, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 174,
+      "y": 515
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 17
+  },
+  {
+    "id": "p-kuortane",
+    "category": "piste",
+    "name": "Kuortaneen sote-piste",
+    "municipality": "KU300",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "taajama",
+    "geocode_query": "Kuortane, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 520,
+      "y": 441
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 18
+  },
+  {
+    "id": "p-soini",
+    "category": "piste",
+    "name": "Soinin sote-piste",
+    "municipality": "KU759",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "taajama",
+    "geocode_query": "Soini, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 686,
+      "y": 410
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 19
+  },
+  {
+    "id": "p-lappajarvi",
+    "category": "piste",
+    "name": "Lappajärven sote-piste",
+    "municipality": "KU403",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "taajama",
+    "geocode_query": "Lappajärvi, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 548,
+      "y": 233
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 20
+  },
+  {
+    "id": "p-lehtimaki",
+    "category": "piste",
+    "name": "Lehtimäen sote-piste",
+    "municipality": "KU005",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "laitos",
+    "geocode_query": "Lehtimäen sote-piste, Alajärvi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 588,
+      "y": 415
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 21
+  },
+  {
+    "id": "p-alaharma",
+    "category": "piste",
+    "name": "Alahärmän sote-piste",
+    "municipality": "KU233",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "taajama",
+    "geocode_query": "Alahärmä, Kauhava, Suomi",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 363,
+      "y": 218
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 22
+  },
+  {
+    "id": "p-yliharma",
+    "category": "piste",
+    "name": "Ylihärmän sote-piste",
+    "municipality": "KU233",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "laitos",
+    "geocode_query": "Ylihärmän sote-piste, Kauhava",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 320,
+      "y": 264
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 23
+  },
+  {
+    "id": "p-kortesjarvi",
+    "category": "piste",
+    "name": "Kortesjärven sote-piste",
+    "municipality": "KU233",
+    "address": null,
+    "note": "Sosiaali- ja terveyspiste: kevyempi lähipalvelupiste, esim. hoitajan vastaanotto, laboratorion näytteenotto tai reseptiasiat. Palvelut ja aukiolot vaihtelevat.",
+    "location_method": "laitos",
+    "geocode_query": "Kortesjärven sote-piste, Kauhava",
+    "lat": null,
+    "lon": null,
+    "map": {
+      "x": 417,
+      "y": 186
+    },
+    "valid_from": null,
+    "valid_to": null,
+    "sort_order": 24
+  }
+]

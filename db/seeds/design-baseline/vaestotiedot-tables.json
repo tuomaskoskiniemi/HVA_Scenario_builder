@@ -1,0 +1,3534 @@
+[
+ {
+  "head": [
+   "Kunta",
+   "Väkiluku\n2025",
+   "Osuus alueen\nväestöstä",
+   "Alle 18 v.\n2025",
+   "0–6 v.\n2025",
+   "65 v. täyttäneet\n2025",
+   "Työllisyysaste\n2024",
+   "Työttömyysaste\n2024",
+   "Työttömät, % työvoimasta\n9/2026",
+   "Korkea-aste\n2024",
+   "Huomio"
+  ],
+  "body": [
+   [
+    {
+     "text": "Seinäjoki",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "67 283",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "35,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13 253",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4 462",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "21,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "75,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "34,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Alueen keskus; nuorin ikärakenne, eniten pikkulapsia",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kurikka",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "19 441",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "3 345",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "955",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "32,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "75,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "21,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Sisältää Jalasjärven ja Jurvan",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kauhava",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14 909",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 541",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "715",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "31,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "76,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "24,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Lapua",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13 927",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 757",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "791",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "26,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "76,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Korkea-asteen osuus kolmen korkeimman joukossa",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kauhajoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12 429",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 146",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "593",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "31,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "72,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "22,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Ilmajoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12 405",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 817",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 011",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "23,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "79,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "28,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Alle 15-v. osuus 18,5 % (2024), maakunnan korkein",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Alavus",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10 634",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 010",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "624",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "31,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "71,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12,2 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "20,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Korkein työttömyysaste 2024 (Teuvan kanssa)",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Alajärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8 982",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 758",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "503",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "32,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "73,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "23,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Ähtäri",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5 121",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "796",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "223",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "36,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "73,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "22,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Teuva",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4 574",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "744",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "196",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "36,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "73,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12,2 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "18,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Korkein työttömyysaste 2024 (Alavuden kanssa)",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Isokyrö",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4 261",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "770",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "200",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "30,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "77,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "26,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Pohjanmaan maakuntaa, ei maakunnan lukujen sisällä",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kuortane",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "3 306",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "520",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "137",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "33,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "78,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "25,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Toiseksi matalin työttömyysaste 2024",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Lappajärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 704",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "436",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "115",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "39,9 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "72,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "23,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Vanhin ikärakenne",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Vimpeli",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 554",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "396",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "86",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "35,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "74,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "24,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Evijärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 267",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "410",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "108",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "31,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "79,9 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "19,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Matalin työttömyysaste ja korkein työllisyysaste 2024",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Soini",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 772",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "0,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "305",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "81",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "36,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "73,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "20,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Isojoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 771",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "0,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "248",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "80",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "37,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "78,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "17,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Karijoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 134",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "0,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "153",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "37",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "37,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "77,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "14,6 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Matalin koulutustaso; vähiten pikkulapsia",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ]
+  ],
+  "foot": [
+   [
+    {
+     "text": "Etelä-Pohjanmaa",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "189 474",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "100 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "35 405",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10 917",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "75,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "18 kunnan luvut (sis. Isokyrö), paitsi työllisyys- ja työttömyysaste: maakunta (17 kuntaa)",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Koko maa",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5 652 881",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "1 004 036",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "331 240",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "23,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "72,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "11,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "11,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "34,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Alle 18 v. osuus 17,8 % (2025)",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ]
+  ]
+ },
+ {
+  "head": [
+   "Kunta",
+   "Asuntoväestö\n2024",
+   "Mediaanitulo,\n€ / kulutusyksikkö",
+   "Pienituloisuus-\naste",
+   "Pitkittyneesti\npienituloiset",
+   "Lasten pienituloisuus-\naste",
+   "Kokonaan perusturvan\nvarassa, % asuntoväestöstä",
+   "Huomio"
+  ],
+  "body": [
+   [
+    {
+     "text": "Seinäjoki",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "65 582",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29 989 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "11,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "3,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kurikka",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "19 235",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "28 713 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "3,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kauhava",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14 760",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "28 772 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Lapua",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13 750",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29 980 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "11,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "11,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kauhajoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12 287",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27 607 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "16,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "15,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Ilmajoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12 248",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "30 737 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,8 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Matalin pienituloisuusaste ja korkein mediaanitulo",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Alavus",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10 578",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "26 572 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "16,7 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "18,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Korkein pienituloisuusaste",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Alajärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8 813",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27 577 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "16,7 %",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "20,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Korkein pienituloisuusaste",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Ähtäri",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5 065",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27 506 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "15,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "17,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Teuva",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4 551",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27 585 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Isokyrö",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4 262",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29 200 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Pohjanmaan maakuntaa, ei maakunnan lukujen sisällä",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Kuortane",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "3 270",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29 139 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Lappajärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 696",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27 096 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "16,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "19,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Vimpeli",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 542",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "28 690 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,4 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14,9 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Evijärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2 232",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "28 134 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "12,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Soini",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 771",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27 019 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,0 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Isojoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 739",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "28 475 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "16,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "15,6 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Karijoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1 138",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "27 900 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "15,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "11,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ]
+  ],
+  "foot": [
+   [
+    {
+     "text": "Etelä-Pohjanmaa",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "186 519",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29 061 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,7 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,3 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "3,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "Maakunta (17 kuntaa, ilman Isokyröä)",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ],
+   [
+    {
+     "text": "Koko maa",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5 505 446",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "30 523 €",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "14,2 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,1 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "13,8 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,5 %",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "",
+     "bold": false,
+     "na": false,
+     "note": true
+    }
+   ]
+  ]
+ },
+ {
+  "head": [
+   "Kunta",
+   "Sairastavuus-\nindeksi 2024",
+   "Diabetes-\nindeksi 2024",
+   "Mielenterveys-\nindeksi 2024",
+   "Työkyvyttömyys-\nindeksi 2024",
+   "Työkyvyttömyyseläke,\n% 25–64 v. 2025",
+   "Mielenterveysperust.\nsairauspäiväraha, ‰ 2025",
+   "Toimeentulotuki,\n% 25–64 v. 2025",
+   "Kodin ulkopuolelle\nsijoitetut, % 0–17 v. 2025"
+  ],
+  "body": [
+   [
+    {
+     "text": "Seinäjoki",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "109,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "105,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "109,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "108,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "40,7",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,1",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Kurikka",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "106,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "117,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "104,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "131,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "36,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Kauhava",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "103,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "112,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "103,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "131,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "35,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,4",
+     "bold": true,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Lapua",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "108,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "118,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "126,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "122,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "37,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Kauhajoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "113,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "116,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "119,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "145,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "32,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Ilmajoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "97,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "108,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "82,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "110,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "40,7",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "0,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Alavus",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "109,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "110,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "130,2",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "142,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "28,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Alajärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "111,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "109,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "114,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "143,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "34,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Ähtäri",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "110,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "124,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "116,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "150,1",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "6,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Teuva",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "106,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "107,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "118,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "132,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "32,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Isokyrö",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "97,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "114,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "88,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "118,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "30,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "0,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Kuortane",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "96,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "101,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "89,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "116,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Lappajärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "105,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "111,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "100,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "126,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "34,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Vimpeli",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "106,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "106,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "90,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "135,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "31,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Evijärvi",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "118,6",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "110,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "122,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "131,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "8,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "39,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "2,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Soini",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "103,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "112,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "108,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "139,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,8",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "29,3",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Isojoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "106,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "100,2",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "118,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "122,1",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "9,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "34,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "3,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Karijoki",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "104,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "126,6",
+     "bold": true,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "89,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "142,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "10,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "31,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "4,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "–",
+     "bold": false,
+     "na": true,
+     "note": false
+    }
+   ]
+  ],
+  "foot": [
+   [
+    {
+     "text": "Etelä-Pohjanmaan hyvinvointialue",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "107,4",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "113,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "108,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "122,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,5",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "36,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,9",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,7",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ],
+   [
+    {
+     "text": "Koko maa",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "100,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "100,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "100,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "100,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "5,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "33,0",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "7,8",
+     "bold": false,
+     "na": false,
+     "note": false
+    },
+    {
+     "text": "1,6",
+     "bold": false,
+     "na": false,
+     "note": false
+    }
+   ]
+  ]
+ }
+]
